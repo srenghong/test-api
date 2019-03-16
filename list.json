@@ -1,0 +1,28 @@
+{
+    "places": [{
+            "id": 1,
+            "name": "asd",
+            "address": "123"
+        },
+        {
+            "id": 2,
+            "name": "sdf",
+            "address": "234"
+        },
+        {
+            "id": 3,
+            "name": "dfg",
+            "address": "456"
+        },
+        {
+            "id": 4,
+            "name": "fgh",
+            "address": "567"
+        },
+        {
+            "id": 5,
+            "name": "ghj",
+            "address": "678"
+        }
+    ]
+}
