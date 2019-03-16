@@ -1,28 +1,54 @@
 {
-  "places": [{
-          "id": 1,
-          "name": "Hello Resto",
-          "address": "123 xxx PHN"
-      },
-      {
-          "id": 2,
-          "name": "Java Coffee",
-          "address": "234 xxx ZZHD"
-      },
-      {
-          "id": 3,
-          "name": "Egg planto",
-          "address": "456 xxx DDD"
-      },
-      {
-          "id": 4,
-          "name": "Pizzaria",
-          "address": "567 xxx LLI"
-      },
-      {
-          "id": 5,
-          "name": "GogoFood",
-          "address": "678 xxx YDF"
-      }
+  "all_time": [{
+      "id": 1,
+      "name": "Hello Resto",
+      "address": "123 xxx PHN"
+    },
+    {
+      "id": 2,
+      "name": "Java Coffee",
+      "address": "234 xxx ZZHD"
+    },
+    {
+      "id": 3,
+      "name": "Egg planto",
+      "address": "456 xxx DDD"
+    },
+    {
+      "id": 4,
+      "name": "Pizzaria",
+      "address": "567 xxx LLI"
+    },
+    {
+      "id": 5,
+      "name": "GogoFood",
+      "address": "678 xxx YDF"
+    }
+  ],
+  "this_week": [{
+      "id": 1,
+      "name": "Java Coffee",
+      "address": "123 xxx PHN"
+    },
+    {
+      "id": 2,
+      "name": "Egg planto",
+      "address": "234 xxx ZZHD"
+    },
+    {
+      "id": 3,
+      "name": "Hello Resto",
+      "address": "456 xxx DDD"
+    },
+    {
+      "id": 4,
+      "name": "Pizzaria",
+      "address": "567 xxx LLI"
+    },
+    {
+      "id": 5,
+      "name": "GogoFood",
+      "address": "678 xxx YDF"
+    }
   ]
 }
