@@ -50,5 +50,46 @@
       "name": "GogoFood",
       "address": "678 xxx YDF"
     }
+  ],
+  "food_category": [{
+      "id": 1,
+      "name": "Nearby",
+      "nb_places": 20
+    },
+    {
+      "id": 2,
+      "name": "Khmer Food",
+      "nb_places": 48
+    },
+    {
+      "id": 3,
+      "name": "European Food",
+      "nb_places": 10
+    },
+    {
+      "id": 4,
+      "name": "Thai Food",
+      "nb_places": 12
+    },
+    {
+      "id": 5,
+      "name": "Fast Food",
+      "nb_places": 23
+    },
+    {
+      "id": 6,
+      "name": "Vietnam Food",
+      "nb_places": 20
+    },
+    {
+      "id": 7,
+      "name": "Soup",
+      "nb_places": 43
+    },
+    {
+      "id": 8,
+      "name": "Barbecue",
+      "nb_places": 33
+    }
   ]
 }
